@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "",
+  "SCAN_LINK": "https://polygonscan.com/address/",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Lesgo Token",
+  "SYMBOL": "LST",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 60000000000000000000,
+  "DISPLAY_COST": 60.00,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/",
+  "SHOW_BACKGROUND": true
+}
