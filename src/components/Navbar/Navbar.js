@@ -99,7 +99,7 @@ const Navbar = () => {
     }
 
     const homeLink = () =>{
-      window.location.replace("https://cosmoboynft.com")
+      window.location.replace("https://lesgocoin.com")
     }
 
     return (
