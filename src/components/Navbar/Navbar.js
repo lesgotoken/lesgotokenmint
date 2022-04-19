@@ -99,7 +99,7 @@ const Navbar = () => {
     }
 
     const homeLink = () =>{
-      window.location.replace("https://lesgocoin.com")
+      window.location.replace("https://www.lesgocoin.com/")
     }
 
     return (
