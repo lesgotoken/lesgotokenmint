@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "",
-  "SCAN_LINK": "https://polygonscan.com/address/",
+  "CONTRACT_ADDRESS": "0x7337f27a1451D7428Ef0250907773298F2e30D64",
+  "SCAN_LINK": "https://polygonscan.com/address/0x7337f27a1451D7428Ef0250907773298F2e30D64",
   "NETWORK": {
-    "NAME": "Polygon",
+    "NAME": "Mumbai Testnet",
     "SYMBOL": "MATIC",
-    "ID": 137
+    "ID": 80001
   },
   "NFT_NAME": "Lesgo Token",
   "SYMBOL": "LST",
